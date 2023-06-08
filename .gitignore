@@ -1,5 +1,5 @@
 .DS_Store
 .idea
+*__pycache__*
 claude/.DS_Store
-claude/__pycache__/
-comment/.DS_Store
+*.DS_Store
